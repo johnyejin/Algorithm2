@@ -1,4 +1,4 @@
-📚 C++ 알고리즘 문제풀이
+😬 C++ 알고리즘 문제풀이
 ------------------------
 
 #### 📎 알고리즘 사이트
@@ -7,7 +7,7 @@
 > * [SW Expert](https://swexpertacademy.com/main/main.do)
 
 
-#### 📖 문제 목록
+#### 📜 문제 목록
 
 * 2020 - 03 - Week2
   * [SW Expert / 석찬이의 받아쓰기 (9317번)](https://swexpertacademy.com/main/code/problem/problemDetail.do)
